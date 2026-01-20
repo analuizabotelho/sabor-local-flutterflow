@@ -3,7 +3,7 @@
 Mobile-first web application developed using FlutterFlow as part of a low/no-code learning experience.
 
 ## 🚀 Live Demo (Web)
-[Access the live demo ] (https://sabor-local-6c0wo6.flutterflow.app/)
+[Access the live demo ] (https://restaurantesaborlocal.flutterflow.app/)
 
 > ⚠️ Note: This project was designed with a mobile-first approach.  
 > The web version is functional but optimized for mobile devices.
